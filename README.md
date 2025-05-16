@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevAventurier / Ash for friends
+- 👋 Hi, I’m Hatimou going by @DevAventurier / Ash for friends
 - 👀 I’m mostly interested in mastering coding skills
 - 🌱 Currently learning Computer Enginering at IpNet Institute of Technology in Lome-Togo
 - 💞️ Looking to collaborate on JAVA/Springboot/Angular/React, Php/Laravel, Python/Django/Flask and JS projects
